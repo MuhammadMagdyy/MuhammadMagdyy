@@ -132,7 +132,7 @@ Event-driven **RAG system** built for high-speed PDF ingestion and semantic quer
 | ⚙️ **Backend** | Python · FastAPI · Inngest (event-driven) |
 | 📦 **Infra** | Docker · Qdrant |
 
-[![Repo](https://img.shields.io/badge/View_Repo-6E40C9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammadMagdyy/stanza-studio)
+[![Repo](https://img.shields.io/badge/View_Repo-6E40C9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammadMagdyy/rag-stanza-engine)
 
 ---
 
@@ -147,7 +147,7 @@ Full-stack **Next.js + TypeScript** web app for managing and visualizing student
 | 🎨 **Frontend** | Next.js · TypeScript · Tailwind CSS |
 | 📡 **Data** | REST API Integration · Server-Side Rendering |
 
-[![Repo](https://img.shields.io/badge/View_Repo-6E40C9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammadMagdyy/athar-studio)
+[![Repo](https://img.shields.io/badge/View_Repo-6E40C9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammadMagdyy/athar-portfolio)
 
 ---
 
@@ -162,7 +162,7 @@ MERN-stack e-learning system with **Stripe payments**, JWT authentication, and M
 | 🎨 **Stack** | MongoDB · Express · React · Node.js |
 | 🔐 **Auth & Pay** | JWT · Stripe |
 
-[![Repo](https://img.shields.io/badge/View_Repo-6E40C9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammadMagdyy/amelio)
+[![Repo](https://img.shields.io/badge/View_Repo-6E40C9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammadMagdyy/Advanced-Computer-Lab-2022-BlueHats)
 
 ---
 
