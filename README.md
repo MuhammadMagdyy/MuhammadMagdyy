@@ -232,6 +232,10 @@ CNN-based deep learning system that classifies American Sign Language gestures i
   <img src="https://img.shields.io/badge/LinkedIn-Connect_Professionally-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
+<a href="https://leetcode.com/u/MuhammadMagdyy/">
+  <img src="https://img.shields.io/badge/LeetCode-Solve_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+&nbsp;
 <a href="https://drive.google.com/file/d/1qCFz0zFDIve5CYORDHpyAiMFK-VvlGyD/view?usp=sharing">
   <img src="https://img.shields.io/badge/Download_CV-6E40C9?style=for-the-badge&logo=googledrive&logoColor=white"/>
 </a>
