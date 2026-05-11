@@ -9,7 +9,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=6E40C9&height=100&width=600&text=AI%20FULL-STACK%20DEVELOPER&fontSize=35&fontColor=fff&animation=twinkling" alt="Neon Pulse" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=6E40C9&height=120&width=700&text=AI%20FULL-STACK%20DEVELOPER&fontSize=35&fontColor=fff&animation=twinkling&reversal=true&v=1" alt="Neon Pulse" />
 
 </div>
 <!-- ═══════════════════  TYPING ANIMATIONS  ═══════════════════ -->
