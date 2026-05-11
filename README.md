@@ -9,11 +9,9 @@
 
 <br/>
 
-<!-- PULSING NEON TITLE -->
-<!-- This uses a custom animation loop to increase and decrease brightness -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=3000&pause=0&color=A78BFA&background=00000000&center=true&vCenter=true&width=800&lines=++%E2%9C%A8+AI+FULL-STACK+DEVELOPER+%E2%9C%A8++;+++++++++++++;++%E2%9C%A8+AI+FULL-STACK+DEVELOPER+%E2%9C%A8++" alt="Neon Pulse" />
-
-<br/>
+<!-- THE NEON BREATH (Title) -->
+<!-- The 'soft' type + 'twinkling' creates the pulse in size/brightness you described -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=6E40C9&height=80&width=600&text=AI%20FULL-STACK%20DEVELOPER&fontSize=30&fontColor=fff&animation=twinkling" />
 
 </div>
 <!-- ═══════════════════  TYPING ANIMATIONS  ═══════════════════ -->
