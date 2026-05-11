@@ -4,7 +4,7 @@
 <div align="center">
 
 <!-- Main Name Banner -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20,24,30&height=200&section=header&text=Muhammad%20Magdy&fontSize=70&fontColor=fff&stroke=6E40C9&strokeWidth=2&animation=fadeIn&fontAlignY=45" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=60&duration=4000&pause=0&color=6E40C9&center=true&vCenter=true&width=900&lines=MUHAMMAD+MAGDY;+;MUHAMMAD+MAGDY" />
 
 <br/>
 
