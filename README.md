@@ -3,13 +3,14 @@
 
 <div align="center">
 
-<!-- Main Banner: Now clean and stable -->
+<!-- Main Name Banner -->
 <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20,24,30&height=200&section=header&text=Muhammad%20Magdy&fontSize=70&fontColor=fff&stroke=6E40C9&strokeWidth=2&animation=fadeIn&fontAlignY=45" width="100%"/>
 
 <br/>
 
-<!-- NEON ANIMATED TITLE: Pulsing AI Full-Stack Developer -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=500&color=A78BFA&background=00000000&center=true&vCenter=true&width=800&lines=SOFTWARE+ENGINEER;%E2%9C%A8+AI+FULL-STACK+DEVELOPER+%E2%9C%A8;BUILDING+INTELLIGENT+SYSTEMS" alt="Neon Animated Title" />
+<!-- PULSING NEON TITLE -->
+<!-- This uses a custom animation loop to increase and decrease brightness -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=3000&pause=0&color=A78BFA&background=00000000&center=true&vCenter=true&width=800&lines=++%E2%9C%A8+AI+FULL-STACK+DEVELOPER+%E2%9C%A8++;+++++++++++++;++%E2%9C%A8+AI+FULL-STACK+DEVELOPER+%E2%9C%A8++" alt="Neon Pulse" />
 
 <br/>
 
