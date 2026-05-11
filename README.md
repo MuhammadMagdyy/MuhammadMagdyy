@@ -4,16 +4,16 @@
 
 <div align="center">
 
-<!-- THE SIGN BOARD -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=060B14&height=250&section=header&text=MUHAMMAD%20MAGDY&fontSize=80&fontColor=fff&stroke=6E40C9&strokeWidth=2&animation=fadeIn" width="100%"/>
-
-<!-- THE PULSING NEON TUBE (Position) -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=A78BFA&height=60&text=AI%20FULL-STACK%20DEVELOPER&fontSize=30&fontColor=fff&animation=twinkling" width="80%"/>
+<!-- Main Name Banner -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20,24,30&height=200&section=header&text=Muhammad%20Magdy&fontSize=70&fontColor=fff&stroke=6E40C9&strokeWidth=2&animation=fadeIn&fontAlignY=45" width="100%"/>
 
 <br/>
 
-<!-- OPTIONAL: FLICKERING SUBTEXT -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=0&color=6E40C9&center=true&vCenter=true&width=500&lines=OPEN+FOR+BUSINESS;+++++++++++++++++;OPEN+FOR+BUSINESS" alt="Neon Pulse" />
+<!-- PULSING NEON TITLE -->
+<!-- This uses a custom animation loop to increase and decrease brightness -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=3000&pause=0&color=A78BFA&background=00000000&center=true&vCenter=true&width=800&lines=++%E2%9C%A8+AI+FULL-STACK+DEVELOPER+%E2%9C%A8++;+++++++++++++;++%E2%9C%A8+AI+FULL-STACK+DEVELOPER+%E2%9C%A8++" alt="Neon Pulse" />
+
+<br/>
 
 </div>
 <!-- ═══════════════════  TYPING ANIMATIONS  ═══════════════════ -->
