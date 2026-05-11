@@ -6,9 +6,16 @@
 
 <!-- Main Banner with Purple Neon Stroke on Name -->
 <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20,24,30&height=200&section=header&text=Muhammad%20Magdy&fontSize=70&fontColor=fff&stroke=6E40C9&strokeWidth=2&animation=fadeIn&fontAlignY=45" width="100%"/>
-<div align="center">
+
+<!-- <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=6E40C9&height=100&width=600&text=AI%20FULL-STACK%20DEVELOPER&fontSize=35&fontColor=fff&animation=twinkling&bgDot=false" alt="Constant Neon Pulse" />
+
+</div> -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&duration=2000&pause=0&color=6E40C9&background=FFFFFF00&center=true&vCenter=true&width=600&lines=AI+FULL-STACK+DEVELOPER;AI+FULL-STACK+DEVELOPER" alt="Neon Breathing Letters" />
 
 </div>
 
