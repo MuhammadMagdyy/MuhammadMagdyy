@@ -1,9 +1,6 @@
 <!-- ═══════════════════  HERO HEADER  ═══════════════════ -->
-<!-- LIGHT MODE (Colored Teal/Purple) -->
-![Light Mode Banner](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=3,15,22,29,32&height=220&section=header&text=Muhammad%20Magdy&fontSize=70&fontColor=4B2EB3&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer%20%E2%80%A2%20AI%20Developer%20%E2%80%A2%20Full-Stack%20Developer&descSize=20&descAlignY=65&descColor=6E40C9&descAlignY=70#gh-light-mode-only)
-
-<!-- DARK MODE (Original Venom with Enhanced Glow) -->
-![Dark Mode Banner](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20,24,30&height=220&section=header&text=Muhammad%20Magdy&fontSize=70&fontColor=fff&animation=fadeIn&stroke=A78BFA&strokeWidth=1&fontAlignY=40&desc=Software%20Engineer%20%E2%80%A2%20AI%20Developer%20%E2%80%A2%20Full-Stack%20Developer&descSize=20&descAlignY=65&descColor=A78BFA#gh-dark-mode-only)
+<!-- Hardcoded dark colors and white text, invisible in light mode -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20,24,30&height=220&section=header&text=Muhammad%20Magdy&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer%20%E2%80%A2%20AI%20Developer%20%E2%80%A2%20Full-Stack%20Developer&descSize=20&descAlignY=65&descColor=A78BFA" width="100%"/>
 <!-- ═══════════════════  TYPING ANIMATIONS  ═══════════════════ -->
 
 <div align="center">
