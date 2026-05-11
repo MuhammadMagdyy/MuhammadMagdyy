@@ -1,11 +1,20 @@
 <!-- ═══════════════════  HERO HEADER  ═══════════════════ -->
-<!-- Main Banner with Purple Neon Stroke on Name -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20,24,30&height=200&section=header&text=Muhammad%20Magdy&fontSize=70&fontColor=fff&stroke=6E40C9&strokeWidth=2&animation=fadeIn&fontAlignY=45" width="100%"/>
+<div align="center">
 
-<!-- NEON ANIMATED TITLE SECTION -->
+<!-- HEADER BANNER: Stable Purple Glow -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24,30&height=180&section=header&text=MUHAMMAD%20MAGDY&fontSize=75&fontColor=fff&stroke=6E40C9&strokeWidth=2&animation=fadeIn" width="100%"/>
+
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=500&color=A78BFA&background=060B1400&center=true&vCenter=true&width=800&lines=SOFTWARE+ENGINEER+•+AI+DEVELOPER+•+FULL-STACK+DEVELOPER" alt="Animated Title" />
+
+<!-- NEON ANIMATED TITLE: High Legibility Purple -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=500&color=A78BFA&background=00000000&center=true&vCenter=true&width=800&lines=SOFTWARE+ENGINEER+•+AI+DEVELOPER+•+FULL-STACK+DEVELOPER" alt="Animated Title" />
+
 <br/>
+
+<!-- DYNAMIC SUB-TEXT -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=%F0%9F%A7%A0+Building+intelligent+systems+that+ship;%F0%9F%94%8D+RAG+Pipelines+%7C+Vector+Search;%E2%9A%A1+FastAPI+%2B+Next.js+%2B+PyTorch;%F0%9F%8C%8D+Open+to+Freelance+Collaboration)](https://git.io/typing-svg)
+
+</div>
 <!-- ═══════════════════  TYPING ANIMATIONS  ═══════════════════ -->
 
 <div align="center">
