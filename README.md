@@ -9,7 +9,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=6E40C9&height=120&width=600&text=AI%20FULL-STACK%20DEVELOPER&fontSize=35&fontColor=fff&animation=twinkling&bgDot=false" alt="Magnifying Neon" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&duration=3000&pause=0&color=6E40C9&background=00000000&center=true&vCenter=true&width=600&lines=AI+FULL-STACK+DEVELOPER;AI+FULL-STACK+DEVELOPER" alt="Neon Letter Glow" />
 
 </div>
 
