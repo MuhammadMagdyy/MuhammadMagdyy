@@ -1,5 +1,19 @@
 <!-- ═══════════════════  HERO HEADER  ═══════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20,24,30&height=220&section=header&text=Muhammad%20Magdy&fontSize=70&fontColor=fff&stroke=6E40C9&strokeWidth=2&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer%20%E2%80%A2%20AI%20Developer%20%E2%80%A2%20Full-Stack%20Developer&descSize=20&descAlignY=65&descColor=A78BFA" width="100%"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20,24,30&height=220&section=header&text=Muhammad%20Magdy&fontSize=70&fontColor=fff&stroke=6E40C9&strokeWidth=2&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer%20%E2%80%A2%20AI%20Developer%20%E2%80%A2%20Full-Stack%20Developer&descSize=20&descAlignY=65&descColor=A78BFA" width="100%"/> -->
+
+<div align="center">
+
+<!-- Main Banner: Now clean and stable -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20,24,30&height=200&section=header&text=Muhammad%20Magdy&fontSize=70&fontColor=fff&stroke=6E40C9&strokeWidth=2&animation=fadeIn&fontAlignY=45" width="100%"/>
+
+<br/>
+
+<!-- NEON ANIMATED TITLE: Pulsing AI Full-Stack Developer -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=500&color=A78BFA&background=00000000&center=true&vCenter=true&width=800&lines=SOFTWARE+ENGINEER;%E2%9C%A8+AI+FULL-STACK+DEVELOPER+%E2%9C%A8;BUILDING+INTELLIGENT+SYSTEMS" alt="Neon Animated Title" />
+
+<br/>
+
+</div>
 <!-- ═══════════════════  TYPING ANIMATIONS  ═══════════════════ -->
 
 <div align="center">
