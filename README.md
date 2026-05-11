@@ -1,14 +1,5 @@
 <!-- ═══════════════════  HERO HEADER  ═══════════════════ -->
-<picture>
-  <!-- Served when the user is in Dark Mode -->
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20,24,30&height=220&section=header&text=Muhammad%20Magdy&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer%20%E2%80%A2%20AI%20Developer%20%E2%80%A2%20Full-Stack%20Developer&descSize=20&descAlignY=65&descColor=A78BFA">
-  
-  <!-- Served when the user is in Light Mode -->
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20,24,30&height=220&section=header&text=Muhammad%20Magdy&fontSize=70&fontColor=0B0E14&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer%20%E2%80%A2%20AI%20Developer%20%E2%80%A2%20Full-Stack%20Developer&descSize=20&descAlignY=65&descColor=4B2EB3">
-  
-  <!-- Fallback for browsers that don't support <picture> -->
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20,24,30&height=220&section=header&text=Muhammad%20Magdy&fontSize=70&fontColor=fff" width="100%"/>
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=venom&theme=dark&color=gradient&customColorList=6,11,20,24,30&height=220&section=header&text=Muhammad%20Magdy&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer%20%E2%80%A2%20AI%20Developer%20%E2%80%A2%20Full-Stack%20Developer&descSize=20&descAlignY=65&descColor=A78BFA" width="100%"/>
 <!-- ═══════════════════  TYPING ANIMATIONS  ═══════════════════ -->
 
 <div align="center">
