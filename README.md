@@ -149,7 +149,7 @@ Event-driven **RAG system** built for high-speed PDF ingestion and semantic quer
 
 ---
 
-### 🎓 Athar — *Gallery Platform*
+### 🖼️ Athar — *Gallery Platform*
 
 > *Modern, data-rich student directory built for educators.*
 
