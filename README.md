@@ -214,6 +214,81 @@ CNN-based deep learning system that classifies American Sign Language gestures i
 ## ⏱️ Weekly Coding Activity
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.14%20million%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 155.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 69 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 18 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                38 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
+🌆 Daytime                111 commits         ████████░░░░░░░░░░░░░░░░░   30.16 % 
+🌃 Evening                157 commits         ███████████░░░░░░░░░░░░░░   42.66 % 
+🌙 Night                  62 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
+Tuesday                  78 commits          █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
+Wednesday                33 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+Thursday                 3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+Friday                   59 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
+Saturday                 52 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
+Sunday                   104 commits         ███████░░░░░░░░░░░░░░░░░░   28.26 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Africa/Cairo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Java** 
+
+```text
+Java                     7 repos             █████████░░░░░░░░░░░░░░░░   36.84 % 
+JavaScript               5 repos             ███████░░░░░░░░░░░░░░░░░░   26.32 % 
+ShaderLab                1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/MuhammadMagdyy/MuhammadMagdyy/main/assets/bar_graph.png)
+
+
+ Last Updated on 11/05/2026 02:59:41 UTC
 <!--END_SECTION:waka-->
 
 <!-- ═══════════════════  CONNECT  ═══════════════════ -->
