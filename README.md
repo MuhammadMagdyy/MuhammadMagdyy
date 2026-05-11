@@ -1,18 +1,5 @@
 <!-- ═══════════════════  HERO HEADER  ═══════════════════ -->
-<!-- ═══════════════════  DYNAMIC ADAPTIVE HEADER  ═══════════════════ -->
-
-<div align="center">
-
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=54&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=MUHAMMAD+MAGDY" alt="Muhammad Magdy" />
-
-### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=SOFTWARE+ENGINEER+•+AI+DEVELOPER" alt="Role" />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=1000&color=6E40C9&center=true&vCenter=true&width=500&lines=Building+intelligent+systems+that+ship;RAG+Pipelines+%7C+Full-Stack;From+PDF+to+insight+in+ms)](https://git.io/typing-svg)
-
-<br/>
-
-<!-- This line creates a colorful glowing separator that works in both modes -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24,30&height=4&width=100%25&opacity=80" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20,24,30&height=220&section=header&text=Muhammad%20Magdy&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer%20%E2%80%A2%20AI%20Developer%20%E2%80%A2%20Full-Stack%20Developer&descSize=20&descAlignY=65&descColor=A78BFA" width="100%"/>
 
 </div>
 <!-- ═══════════════════  TYPING ANIMATIONS  ═══════════════════ -->
