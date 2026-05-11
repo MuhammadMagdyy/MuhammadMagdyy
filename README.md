@@ -10,11 +10,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=500&color=A78BFA&background=00000000&center=true&vCenter=true&width=800&lines=SOFTWARE+ENGINEER+•+AI+DEVELOPER+•+FULL-STACK+DEVELOPER" alt="Animated Title" />
 
 <br/>
-
-<!-- DYNAMIC SUB-TEXT -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=%F0%9F%A7%A0+Building+intelligent+systems+that+ship;%F0%9F%94%8D+RAG+Pipelines+%7C+Vector+Search;%E2%9A%A1+FastAPI+%2B+Next.js+%2B+PyTorch;%F0%9F%8C%8D+Open+to+Freelance+Collaboration)](https://git.io/typing-svg)
-
-</div>
 <!-- ═══════════════════  TYPING ANIMATIONS  ═══════════════════ -->
 
 <div align="center">
