@@ -9,9 +9,7 @@
 
 <br/>
 
-<!-- THE NEON BREATH (Title) -->
-<!-- The 'soft' type + 'twinkling' creates the pulse in size/brightness you described -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=6E40C9&height=80&width=600&text=AI%20FULL-STACK%20DEVELOPER&fontSize=30&fontColor=fff&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=6E40C9&height=100&width=600&text=AI%20FULL-STACK%20DEVELOPER&fontSize=35&fontColor=fff&animation=twinkling" alt="Neon Pulse" />
 
 </div>
 <!-- ═══════════════════  TYPING ANIMATIONS  ═══════════════════ -->
