@@ -4,15 +4,13 @@
 
 <div align="center">
 
-<!-- 1. YOUR NAME: THE MAIN SIGN -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=060B14&height=150&text=MUHAMMAD%20MAGDY&fontSize=70&fontColor=fff&stroke=6E40C9&strokeWidth=2&animation=fadeIn" width="100%"/>
+<!-- Main Banner with Purple Neon Stroke on Name -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20,24,30&height=200&section=header&text=Muhammad%20Magdy&fontSize=70&fontColor=fff&stroke=6E40C9&strokeWidth=2&animation=fadeIn&fontAlignY=45" width="100%"/>
 
+<!-- NEON ANIMATED TITLE SECTION -->
 <br/>
-
-<!-- 2. THE NEON TITLE: PULSING/BREATHING GLOW -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=6E40C9&height=100&width=600&text=AI%20FULL-STACK%20DEVELOPER&fontSize=35&fontColor=fff&animation=twinkling" alt="Neon Pulse" />
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=500&color=A78BFA&background=060B1400&center=true&vCenter=true&width=800&lines=SOFTWARE+ENGINEER+•+AI+DEVELOPER+•+FULL-STACK+DEVELOPER" alt="Animated Title" />
+<br/>
 <!-- ═══════════════════  TYPING ANIMATIONS  ═══════════════════ -->
 
 <div align="center">
