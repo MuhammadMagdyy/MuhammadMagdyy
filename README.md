@@ -56,27 +56,15 @@
 ## 🧠 About Me
 
 ```python
-from typing import Final
-
 class Profile:
-    ROLE: Final     = "AI Systems Architect | Full-Stack Engineer"
-    LOCATION: Final = "New Cairo, Egypt 🇪🇬"
-    STATUS: Final   = "Scaling Agentic RAG Workflows"
+    def __init__(self):
+        self.role     = "Software Engineer"
+        self.focus    = ["Agentic AI", "Production RAG", "Full-Stack"]
+        self.location = "New Cairo, Egypt 🇪🇬"
+        self.status   = "Freelancing & Building Automation Tools"
 
-    CORE_STACK = {
-        "AI/RAG":   ["LangChain", "LlamaIndex", "Groq", "Qdrant"],
-        "Backend":  ["Python", "FastAPI", "Node.js", "Odoo"],
-        "Frontend": ["React.js", "Next.js", "TypeScript"],
-        "Infra":    ["Docker", "AWS", "Linux"]
-    }
-
-    def mission(self) -> str:
-        """Converting complex LLM capabilities into reliable production tools."""
-        return "Engineering AI systems that solve real problems at scale."[cite: 1]
-
-# Current Execution...
-if __name__ == "__main__":
-    print(f"Status: {Profile.STATUS} 🚀")
+    def mission(self):
+        return "Converting complex LLM capabilities into reliable production tools."
 ```
 
 > 💡 *GUC graduate. I don't just write code — I engineer intelligent systems. From production RAG pipelines to full-stack dashboards, I work at the intersection of AI research and real-world product delivery.*
