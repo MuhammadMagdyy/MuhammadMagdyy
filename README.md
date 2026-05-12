@@ -57,7 +57,8 @@
 
 
 ```python
-class Profile:
+
+            class Profile:
             def __init__(self):
                     self.role= "Software Engineer"
                     self.focus= ["Agentic AI", "Production RAG", "Full-Stack"]
