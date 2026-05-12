@@ -26,7 +26,7 @@
 <br/><br/>
 
 <!-- BADGES ROW -->
-<a href="https://MuhammadMagdyy.github.io/Portfolio/">
+<!-- <a href="https://MuhammadMagdyy.github.io/Portfolio/">
   <img src="https://img.shields.io/badge/🌐_Portfolio-6E40C9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
@@ -40,7 +40,7 @@
 &nbsp;
 <a href="https://drive.google.com/file/d/1qCFz0zFDIve5CYORDHpyAiMFK-VvlGyD/view?usp=sharing">
   <img src="https://img.shields.io/badge/📄_Download_CV-6E40C9?style=for-the-badge&logo=googledrive&logoColor=white"/>
-</a>
+</a> -->
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=MuhammadMagdyy&label=Profile+Views&color=A78BFA&style=for-the-badge"/>
 
