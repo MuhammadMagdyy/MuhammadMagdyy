@@ -75,6 +75,7 @@ class Profile:
     def mission(self) -> str:
         """Converting complex LLM capabilities into reliable production tools."""[cite: 1]
         return "Engineering AI systems that solve real problems at scale."[cite: 1]
+```
 
 > 💡 *GUC graduate. I don't just write code — I engineer intelligent systems. From production RAG pipelines to full-stack dashboards, I work at the intersection of AI research and real-world product delivery.*
 
