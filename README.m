@@ -311,10 +311,3 @@ TypeScript               1 repo              █░░░░░░
 
 <!-- ═══════════════════  FOOTER  ═══════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=140&section=footer&animation=twinkling" width="100%"/>
-
-
-
-
-I want to remove redundant or repeated unnecessary things and also not real things or number and keep it cool and modern and animated and fun to watch 
-
-guide me and help me to do that
