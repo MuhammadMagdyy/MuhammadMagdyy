@@ -53,35 +53,20 @@
 
 <!-- ═══════════════════  ABOUT ME  ═══════════════════ -->
 
-## 🧠 About Me
+Markdown
+
+## 🧠 System.info()
 
 ```python
 class MuhammadMagdy:
-    role       = ["Software Engineer", "AI Developer", "Full-Stack Developer"]
-    location   = "New Cairo, Egypt 🇪🇬"
-    education  = "BSc Media Engineering & Technology — GUC (2024)"
-
-    focus      = [
-        "RAG Pipelines & Vector Search",
-        "LLM Integration & AI Automation",
-        "Full-Stack Web Apps (MERN / Next.js)",
-        "ERP Systems (Odoo, SAP ABAP)",
-    ]
-    stack      = {
-        "backend":    ["Python", "FastAPI", "Node.js", "Java", "SAP ABAP"],
-        "frontend":   ["React.js", "Next.js", "TypeScript", "JavaScript"],
-        "ai_ml":      ["LangChain", "RAG", "LLM APIs", "PyTorch", "OpenCV"],
-        "databases":  ["Qdrant", "PostgreSQL", "MySQL", "MongoDB"],
-        "devops":     ["Docker", "AWS (EC2/S3)", "GitHub Actions", "Linux"],
-    }
-    currently  = "Building AI-driven automation tools & freelancing 🚀"
-    learning   = "Advanced Agentic AI & Multi-Modal LLMs"
-    portfolio  = "https://MuhammadMagdyy.github.io/Portfolio/"
-    cv         = "https://drive.google.com/file/d/1qCFz0zFDIve5CYORDHpyAiMFK-VvlGyD/view"
-    dm_open    = True
-
-    def mission(self):
-        return "Engineer AI systems that solve real problems at scale."
+    def __init__(self):
+        self.role       = "AI Full-Stack Engineer"
+        self.location   = "New Cairo, Egypt"
+        self.education  = "BSc Media Engineering - GUC '24"
+        self.mission    = "Building RAG systems that bridge the gap between PDFs and insights."
+        
+    def current_focus(self):
+        return ["Agentic AI", "Vector Databases", "Production RAG"]
 ```
 
 > 💡 *GUC graduate. I don't just write code — I engineer intelligent systems. From production RAG pipelines to full-stack dashboards, I work at the intersection of AI research and real-world product delivery.*
@@ -229,35 +214,24 @@ CNN-based deep learning system that classifies American Sign Language gestures i
 
 <!-- ═══════════════════  WAKA  ═══════════════════ -->
 
-## ⏱️ Weekly Coding Activity
+(* ## ⏱️ Weekly Coding Activity
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-37-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.15%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.15%20million%20lines%20of%20code-blue?style=flat) *)
 
 **🐱 My GitHub Data** 
+## 📊 Activity & Impact
 
-> 📦 169.0 kB Used in GitHub's Storage 
- > 
-> 🏆 114 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 19 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I Mostly Code in Java** 
+<div align="center">
+  <img height="180em" src="[https://github-readme-stats.vercel.app/api?username=MuhammadMagdyy&show_icons=true&theme=transparent&title_color=A78BFA&icon_color=6E40C9&text_color=ffffff&bg_color=0d1117&hide_border=true&count_private=true&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=MuhammadMagdyy&show_icons=true&theme=transparent&title_color=A78BFA&icon_color=6E40C9&text_color=ffffff&bg_color=0d1117&hide_border=true&count_private=true&include_all_commits=true)" />
+  <img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadMagdyy&layout=compact&langs_count=6&theme=transparent&title_color=A78BFA&text_color=ffffff&bg_color=0d1117&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadMagdyy&layout=compact&langs_count=6&theme=transparent&title_color=A78BFA&text_color=ffffff&bg_color=0d1117&hide_border=true)" />
+</div>
 
-```text
-Java                     7 repos             █████████░░░░░░░░░░░░░░░░   35.00 % 
-JavaScript               6 repos             ████████░░░░░░░░░░░░░░░░░   30.00 % 
-ShaderLab                1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-```
-
+<div align="center">
+  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=MuhammadMagdyy&theme=transparent&streak_color=A78BFA&fire_color=6E40C9&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadMagdyy&theme=transparent&streak_color=A78BFA&fire_color=6E40C9&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)" />
+</div>
 
 
 **Timeline**
