@@ -55,14 +55,16 @@
 
 ## 🧠 About Me
 
+content = """# 🧠 Muhammad Magdy
+
 ```python
-from typing import List, Set
-from pydantic import BaseModel
+from typing import List, Dict
+from pydantic import BaseModel, Field
 
 class MuhammadMagdy(BaseModel):
     title: str = "AI Systems Architect | Full-Stack Engineer"
     origin: str = "New Cairo, Egypt 🇪🇬"
-    status: str = "Building Agentic Workflows & Scalable RAG"
+    status: str = Field(default="Building Agentic Workflows & Scalable RAG")
 
     # Core Competencies
     expertise: List[str] = [
@@ -72,17 +74,20 @@ class MuhammadMagdy(BaseModel):
         "Cloud Native Deployment (Docker / AWS)"
     ]
 
-    def get_stack(self) -> dict:
+    def get_stack(self) -> Dict[str, List[str]]:
         return {
-            "Brain": ["LangChain", "LlamaIndex", "Groq", "Qdrant"],
+            "Brain":    ["LangChain", "LlamaIndex", "Groq", "Qdrant"],
             "Backbone": ["Python", "FastAPI", "Node.js", "PostgreSQL"],
-            "Face": ["React.js", "Next.js", "TypeScript", "Tailwind"],
+            "Face":     ["React.js", "Next.js", "TypeScript", "Tailwind"],
         }
 
-    async def execute_mission(self):
-        """Converting complex LLM capabilities into reliable production tools."""
-        pass
-```
+    @property
+    def mission(self) -> str:
+        return "Converting complex LLM capabilities into reliable production tools."
+
+    async def execute(self):
+        \"\"\"Solving real-world problems at scale through intelligent automation.\"\"\"
+        await self.deploy_innovation()
 
 > 💡 *GUC graduate. I don't just write code — I engineer intelligent systems. From production RAG pipelines to full-stack dashboards, I work at the intersection of AI research and real-world product delivery.*
 
