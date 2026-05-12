@@ -1,4 +1,4 @@
-<!-- ═══════════════════  HERO HEADER  ═══════════════════ -->
+<!-- ═══════════════════  HERO HEADER  ═══════════════════ -->
 <!-- <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20,24,30&height=220&section=header&text=Muhammad%20Magdy&fontSize=70&fontColor=fff&stroke=6E40C9&strokeWidth=2&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer%20%E2%80%A2%20AI%20Developer%20%E2%80%A2%20Full-Stack%20Developer&descSize=20&descAlignY=65&descColor=A78BFA" width="100%"/> -->
 
 
@@ -15,7 +15,7 @@
 
 
 
-<!-- ═══════════════════  TYPING ANIMATIONS  ═══════════════════ -->
+<!-- ═══════════════════  TYPING ANIMATIONS  ═══════════════════ -->
 
 <div align="center">
 
@@ -27,19 +27,19 @@
 
 <!-- BADGES ROW -->
 <!-- <a href="https://MuhammadMagdyy.github.io/Portfolio/">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-6E40C9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🌐_Portfolio-6E40C9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 <a href="mailto:iimuhammadmagdy@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/muhammad-magdy-652545238/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://drive.google.com/file/d/1qCFz0zFDIve5CYORDHpyAiMFK-VvlGyD/view?usp=sharing">
-  <img src="https://img.shields.io/badge/📄_Download_CV-6E40C9?style=for-the-badge&logo=googledrive&logoColor=white"/>
+  <img src="https://img.shields.io/badge/📄_Download_CV-6E40C9?style=for-the-badge&logo=googledrive&logoColor=white"/>
 </a> -->
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=MuhammadMagdyy&label=Profile+Views&color=A78BFA&style=for-the-badge"/>
@@ -48,33 +48,48 @@
 
 </div>
 
-<!-- ═══════════════════  DIVIDER  ═══════════════════ -->
+<!-- ═══════════════════  DIVIDER  ═══════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
-<!-- ═══════════════════  ABOUT ME  ═══════════════════ -->
+<!-- ═══════════════════  ABOUT ME  ═══════════════════ -->
 
-Markdown
-
-## 🧠 System.info()
+## 🧠 About Me
 
 ```python
 class MuhammadMagdy:
-    def __init__(self):
-        self.role       = "AI Full-Stack Engineer"
-        self.location   = "New Cairo, Egypt"
-        self.education  = "BSc Media Engineering - GUC '24"
-        self.mission    = "Building RAG systems that bridge the gap between PDFs and insights."
-        
-    def current_focus(self):
-        return ["Agentic AI", "Vector Databases", "Production RAG"]
+    role       = ["Software Engineer", "AI Developer", "Full-Stack Developer"]
+    location   = "New Cairo, Egypt 🇪🇬"
+    education  = "BSc Media Engineering & Technology — GUC (2024)"
+
+    focus      = [
+        "RAG Pipelines & Vector Search",
+        "LLM Integration & AI Automation",
+        "Full-Stack Web Apps (MERN / Next.js)",
+        "ERP Systems (Odoo, SAP ABAP)",
+    ]
+    stack      = {
+        "backend":    ["Python", "FastAPI", "Node.js", "Java", "SAP ABAP"],
+        "frontend":   ["React.js", "Next.js", "TypeScript", "JavaScript"],
+        "ai_ml":      ["LangChain", "RAG", "LLM APIs", "PyTorch", "OpenCV"],
+        "databases":  ["Qdrant", "PostgreSQL", "MySQL", "MongoDB"],
+        "devops":     ["Docker", "AWS (EC2/S3)", "GitHub Actions", "Linux"],
+    }
+    currently  = "Building AI-driven automation tools & freelancing 🚀"
+    learning   = "Advanced Agentic AI & Multi-Modal LLMs"
+    portfolio  = "https://MuhammadMagdyy.github.io/Portfolio/"
+    cv         = "https://drive.google.com/file/d/1qCFz0zFDIve5CYORDHpyAiMFK-VvlGyD/view"
+    dm_open    = True
+
+    def mission(self):
+        return "Engineer AI systems that solve real problems at scale."
 ```
 
 > 💡 *GUC graduate. I don't just write code — I engineer intelligent systems. From production RAG pipelines to full-stack dashboards, I work at the intersection of AI research and real-world product delivery.*
 
-<!-- ═══════════════════  ANIMATED DIVIDER  ═══════════════════ -->
+<!-- ═══════════════════  ANIMATED DIVIDER  ═══════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
-<!-- ═══════════════════  TECH STACK  ═══════════════════ -->
+<!-- ═══════════════════  TECH STACK  ═══════════════════ -->
 
 ## 🛠️ Tech Stack
 
@@ -108,10 +123,10 @@ class MuhammadMagdy:
 
 </div>
 
-<!-- ═══════════════════  ANIMATED DIVIDER  ═══════════════════ -->
+<!-- ═══════════════════  ANIMATED DIVIDER  ═══════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
-<!-- ═══════════════════  PROJECTS  ═══════════════════ -->
+<!-- ═══════════════════  PROJECTS  ═══════════════════ -->
 
 ## 🚀 Featured Projects
 
@@ -177,26 +192,26 @@ CNN-based deep learning system that classifies American Sign Language gestures i
 
 [![Repo](https://img.shields.io/badge/View_Repo-6E40C9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammadMagdyy/asl-recognizer)
 
-<!-- ═══════════════════  ANIMATED DIVIDER  ═══════════════════ -->
+<!-- ═══════════════════  ANIMATED DIVIDER  ═══════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
-<!-- ═══════════════════  EXPERIENCE  ═══════════════════ -->
+<!-- ═══════════════════  EXPERIENCE  ═══════════════════ -->
 
 ## 💼 Experience
 
 ```
-🏢  Mansour Group (SAP ABAP Intern)         Sep 2023 – Oct 2023 · Cairo, Egypt
-     └─ Custom ABAP reports & SAP ERP data dictionary objects
+🏢  Mansour Group (SAP ABAP Intern)         Sep 2023 – Oct 2023 · Cairo, Egypt
+     └─ Custom ABAP reports & SAP ERP data dictionary objects
 
-🔬  Ulm University (ML Research Intern)     Apr 2023 – May 2023 · Ulm, Germany
-     └─ CNN optimization with PyTorch · Automated preprocessing (−40% manual time)
-     └─ Bachelor's thesis: ASL gesture recognition with CNNs
+🔬  Ulm University (ML Research Intern)     Apr 2023 – May 2023 · Ulm, Germany
+     └─ CNN optimization with PyTorch · Automated preprocessing (−40% manual time)
+     └─ Bachelor's thesis: ASL gesture recognition with CNNs
 ```
 
-<!-- ═══════════════════  ANIMATED DIVIDER  ═══════════════════ -->
+<!-- ═══════════════════  ANIMATED DIVIDER  ═══════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
-<!-- ═══════════════════  CERTIFICATIONS  ═══════════════════ -->
+<!-- ═══════════════════  CERTIFICATIONS  ═══════════════════ -->
 
 ## 📜 Certifications
 
@@ -209,29 +224,40 @@ CNN-based deep learning system that classifies American Sign Language gestures i
 
 </div>
 
-<!-- ═══════════════════  ANIMATED DIVIDER  ═══════════════════ -->
+<!-- ═══════════════════  ANIMATED DIVIDER  ═══════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
-<!-- ═══════════════════  WAKA  ═══════════════════ -->
+<!-- ═══════════════════  WAKA  ═══════════════════ -->
 
-(* ## ⏱️ Weekly Coding Activity
+## ⏱️ Weekly Coding Activity
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-37-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.15%20million%20lines%20of%20code-blue?style=flat) *)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.15%20million%20lines%20of%20code-blue?style=flat)
 
-**🐱 My GitHub Data** 
-## 📊 Activity & Impact
+**🐱 My GitHub Data** 
 
-<div align="center">
-  <img height="180em" src="[https://github-readme-stats.vercel.app/api?username=MuhammadMagdyy&show_icons=true&theme=transparent&title_color=A78BFA&icon_color=6E40C9&text_color=ffffff&bg_color=0d1117&hide_border=true&count_private=true&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=MuhammadMagdyy&show_icons=true&theme=transparent&title_color=A78BFA&icon_color=6E40C9&text_color=ffffff&bg_color=0d1117&hide_border=true&count_private=true&include_all_commits=true)" />
-  <img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadMagdyy&layout=compact&langs_count=6&theme=transparent&title_color=A78BFA&text_color=ffffff&bg_color=0d1117&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadMagdyy&layout=compact&langs_count=6&theme=transparent&title_color=A78BFA&text_color=ffffff&bg_color=0d1117&hide_border=true)" />
-</div>
+> 📦 169.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 114 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 19 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I Mostly Code in Java** 
 
-<div align="center">
-  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=MuhammadMagdyy&theme=transparent&streak_color=A78BFA&fire_color=6E40C9&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadMagdyy&theme=transparent&streak_color=A78BFA&fire_color=6E40C9&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)" />
-</div>
+```text
+Java                     7 repos             █████████░░░░░░░░░░░░░░░░   35.00 % 
+JavaScript               6 repos             ████████░░░░░░░░░░░░░░░░░   30.00 % 
+ShaderLab                1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+```
+
 
 
 **Timeline**
@@ -239,10 +265,10 @@ CNN-based deep learning system that classifies American Sign Language gestures i
 ![Lines of Code chart](https://raw.githubusercontent.com/MuhammadMagdyy/MuhammadMagdyy/main/assets/bar_graph.png)
 
 
- Last Updated on 12/05/2026 02:51:39 UTC
+ Last Updated on 12/05/2026 02:51:39 UTC
 <!--END_SECTION:waka-->
 
-<!-- ═══════════════════  CONNECT  ═══════════════════ -->
+<!-- ═══════════════════  CONNECT  ═══════════════════ -->
 
 ## 🤝 Let's Connect
 
@@ -250,23 +276,23 @@ CNN-based deep learning system that classifies American Sign Language gestures i
 
 <br/>
 <a href="https://MuhammadMagdyy.github.io/Portfolio/">
-  <img src="https://img.shields.io/badge/Live_Portfolio-6E40C9?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Live_Portfolio-6E40C9?style=for-the-badge&logo=react&logoColor=white"/>
 </a>
 
 <a href="mailto:iimuhammadmagdy@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Freelance_or_Collaboration-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-Freelance_or_Collaboration-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/muhammad-magdy-652545238/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect_Professionally-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect_Professionally-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://leetcode.com/u/MuhammadMagdyy/">
-  <img src="https://img.shields.io/badge/LeetCode-Solve_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LeetCode-Solve_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 &nbsp;
 <a href="https://drive.google.com/file/d/1qCFz0zFDIve5CYORDHpyAiMFK-VvlGyD/view?usp=sharing">
-  <img src="https://img.shields.io/badge/Download_CV-6E40C9?style=for-the-badge&logo=googledrive&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Download_CV-6E40C9?style=for-the-badge&logo=googledrive&logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -283,5 +309,12 @@ CNN-based deep learning system that classifies American Sign Language gestures i
 
 </div>
 
-<!-- ═══════════════════  FOOTER  ═══════════════════ -->
+<!-- ═══════════════════  FOOTER  ═══════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=140&section=footer&animation=twinkling" width="100%"/>
+
+
+
+
+I want to remove redundant or repeated unnecessary things and also not real things or number and keep it cool and modern and animated and fun to watch 
+
+guide me and help me to do that
