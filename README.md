@@ -54,37 +54,18 @@
 <!-- ═══════════════════  ABOUT ME  ═══════════════════ -->
 
 ## 🧠 About Me
+```python
 
+class Profile:
+    def __init__(self):
+                    self.role= "Software Engineer"
+                    self.focus= ["Agentic AI", "Production RAG", "Full-Stack"]
+                    self.location= "New Cairo, Egypt 🇪🇬"
+                    self.status= "Freelancing & Building Automation Tools"
 
-```Java
+    def mission(self):
+                    return "Converting complex LLM capabilities into reliable production tools."
 
-import java.util.Arrays;
-import java.util.List;
-
-public class MuhammadMagdy {
-    private final String role = "Software Engineer";
-    private final String location = "New Cairo, Egypt 🇪🇬"; //
-    private final String status = "Freelancing & Building Automation Tools"; //[cite: 1]
-    
-    private final List<String> focus = Arrays.asList(
-        "Agentic AI", 
-        "Production RAG", 
-        "Full-Stack"
-    ); //[cite: 1]
-
-    /**
-     * @return The core mission of my engineering career.
-     */
-    public String getMission() {
-        return "Converting complex LLM capabilities into reliable production tools."; //[cite: 1]
-    }
-
-    public static void main(String[] args) {
-        MuhammadMagdy profile = new MuhammadMagdy();
-        System.out.println("Status: " + profile.status);
-        System.out.println("Mission: " + profile.getMission());
-    }
-}
 
 ```
 
