@@ -55,26 +55,18 @@
 
 ## 🧠 About Me
 
-> 💡 *GUC Graduate (2024). I specialize in RAG pipelines and AI-driven automation, ensuring intelligent systems are not just "smart," but production-ready.*
 
 ```python
-from typing import List
-
 class Profile:
     def __init__(self):
-        self.role: str      = "Software Engineer"
-        self.location: str  = "New Cairo, Egypt 🇪🇬"
-        self.status: str    = "Building Agentic Workflows & Scalable RAG"
-        
-        self.focus: List    = [
-            "Agentic AI", 
-            "Production RAG", 
-            "Full-Stack"
-        ]
+        self.role= "Software Engineer"
+        self.focus= ["Agentic AI", "Production RAG", "Full-Stack"]
+        self.location= "New Cairo, Egypt 🇪🇬"
+        self.status= "Freelancing & Building Automation Tools"
 
-    def mission(self) -> str:
-        """Converting complex LLM capabilities into reliable production tools."""[cite: 1]
-        return "Engineering AI systems that solve real problems at scale."[cite: 1]
+    def mission(self):
+        return "Converting complex LLM capabilities into reliable production tools."
+
 ```
 
 > 💡 *GUC graduate. I don't just write code — I engineer intelligent systems. From production RAG pipelines to full-stack dashboards, I work at the intersection of AI research and real-world product delivery.*
