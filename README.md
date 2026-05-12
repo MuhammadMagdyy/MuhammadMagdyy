@@ -88,6 +88,7 @@ class MuhammadMagdy(BaseModel):
     async def execute(self):
         \"\"\"Solving real-world problems at scale through intelligent automation.\"\"\"
         await self.deploy_innovation()
+```
 
 > 💡 *GUC graduate. I don't just write code — I engineer intelligent systems. From production RAG pipelines to full-stack dashboards, I work at the intersection of AI research and real-world product delivery.*
 
