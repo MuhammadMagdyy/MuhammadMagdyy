@@ -317,7 +317,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 <br/>
 <a href="https://MuhammadMagdyy.github.io/Portfolio/">
-  <img src="https://img.shields.io/badge/Live_Portfolio-Check_Projects-6E40C9?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Live_Portfolio-6E40C9?style=for-the-badge&logo=react&logoColor=white"/>
 </a>
 
 <a href="mailto:iimuhammadmagdy@gmail.com">
