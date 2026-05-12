@@ -56,32 +56,32 @@
 ## 🧠 About Me
 
 ```python
-class MuhammadMagdy:
-    role       = ["Software Engineer", "AI Developer", "Full-Stack Developer"]
-    location   = "New Cairo, Egypt 🇪🇬"
-    education  = "BSc Media Engineering & Technology — GUC (2024)"
+from typing import List, Set
+from pydantic import BaseModel
 
-    focus      = [
-        "RAG Pipelines & Vector Search",
-        "LLM Integration & AI Automation",
-        "Full-Stack Web Apps (MERN / Next.js)",
-        "ERP Systems (Odoo, SAP ABAP)",
-    ]
-    stack      = {
-        "backend":    ["Python", "FastAPI", "Node.js", "Java", "SAP ABAP"],
-        "frontend":   ["React.js", "Next.js", "TypeScript", "JavaScript"],
-        "ai_ml":      ["LangChain", "RAG", "LLM APIs", "PyTorch", "OpenCV"],
-        "databases":  ["Qdrant", "PostgreSQL", "MySQL", "MongoDB"],
-        "devops":     ["Docker", "AWS (EC2/S3)", "GitHub Actions", "Linux"],
-    }
-    currently  = "Building AI-driven automation tools & freelancing 🚀"
-    learning   = "Advanced Agentic AI & Multi-Modal LLMs"
-    portfolio  = "https://MuhammadMagdyy.github.io/Portfolio/"
-    cv         = "https://drive.google.com/file/d/1qCFz0zFDIve5CYORDHpyAiMFK-VvlGyD/view"
-    dm_open    = True
+class MuhammadMagdy(BaseModel):
+    title: str = "AI Systems Architect | Full-Stack Engineer"
+    origin: str = "New Cairo, Egypt 🇪🇬"
+    status: str = "Building Agentic Workflows & Scalable RAG"
 
-    def mission(self):
-        return "Engineer AI systems that solve real problems at scale."
+    # Core Competencies
+    expertise: List[str] = [
+        "RAG Orchestration (Vector Search & Metadata Filtering)",
+        "Agentic AI (Multi-step Reasoning & Tool Use)",
+        "Enterprise Full-Stack (Next.js / FastAPI / Odoo)",
+        "Cloud Native Deployment (Docker / AWS)"
+    ]
+
+    def get_stack(self) -> dict:
+        return {
+            "Brain": ["LangChain", "LlamaIndex", "Groq", "Qdrant"],
+            "Backbone": ["Python", "FastAPI", "Node.js", "PostgreSQL"],
+            "Face": ["React.js", "Next.js", "TypeScript", "Tailwind"],
+        }
+
+    async def execute_mission(self):
+        """Converting complex LLM capabilities into reliable production tools."""
+        pass
 ```
 
 > 💡 *GUC graduate. I don't just write code — I engineer intelligent systems. From production RAG pipelines to full-stack dashboards, I work at the intersection of AI research and real-world product delivery.*
