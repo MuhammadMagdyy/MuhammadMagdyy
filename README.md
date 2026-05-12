@@ -55,39 +55,28 @@
 
 ## 🧠 About Me
 
-content = """# 🧠 Muhammad Magdy
-
 ```python
-from typing import List, Dict
-from pydantic import BaseModel, Field
+from typing import Final
 
-class MuhammadMagdy(BaseModel):
-    title: str = "AI Systems Architect | Full-Stack Engineer"
-    origin: str = "New Cairo, Egypt 🇪🇬"
-    status: str = Field(default="Building Agentic Workflows & Scalable RAG")
+class Profile:
+    ROLE: Final     = "AI Systems Architect | Full-Stack Engineer"
+    LOCATION: Final = "New Cairo, Egypt 🇪🇬"
+    STATUS: Final   = "Scaling Agentic RAG Workflows"
 
-    # Core Competencies
-    expertise: List[str] = [
-        "RAG Orchestration (Vector Search & Metadata Filtering)",
-        "Agentic AI (Multi-step Reasoning & Tool Use)",
-        "Enterprise Full-Stack (Next.js / FastAPI / Odoo)",
-        "Cloud Native Deployment (Docker / AWS)"
-    ]
+    CORE_STACK = {
+        "AI/RAG":   ["LangChain", "LlamaIndex", "Groq", "Qdrant"],
+        "Backend":  ["Python", "FastAPI", "Node.js", "Odoo"],
+        "Frontend": ["React.js", "Next.js", "TypeScript"],
+        "Infra":    ["Docker", "AWS", "Linux"]
+    }
 
-    def get_stack(self) -> Dict[str, List[str]]:
-        return {
-            "Brain":    ["LangChain", "LlamaIndex", "Groq", "Qdrant"],
-            "Backbone": ["Python", "FastAPI", "Node.js", "PostgreSQL"],
-            "Face":     ["React.js", "Next.js", "TypeScript", "Tailwind"],
-        }
-
-    @property
     def mission(self) -> str:
-        return "Converting complex LLM capabilities into reliable production tools."
+        """Converting complex LLM capabilities into reliable production tools."""
+        return "Engineering AI systems that solve real problems at scale."[cite: 1]
 
-    async def execute(self):
-        \"\"\"Solving real-world problems at scale through intelligent automation.\"\"\"
-        await self.deploy_innovation()
+# Current Execution...
+if __name__ == "__main__":
+    print(f"Status: {Profile.STATUS} 🚀")
 ```
 
 > 💡 *GUC graduate. I don't just write code — I engineer intelligent systems. From production RAG pipelines to full-stack dashboards, I work at the intersection of AI research and real-world product delivery.*
