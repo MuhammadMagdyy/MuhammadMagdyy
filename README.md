@@ -1,313 +1,195 @@
-<!-- ═══════════════════  HERO HEADER  ═══════════════════ -->
-<!-- <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20,24,30&height=220&section=header&text=Muhammad%20Magdy&fontSize=70&fontColor=fff&stroke=6E40C9&strokeWidth=2&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer%20%E2%80%A2%20AI%20Developer%20%E2%80%A2%20Full-Stack%20Developer&descSize=20&descAlignY=65&descColor=A78BFA" width="100%"/> -->
-
-
 <div align="center">
 
-<!-- Main Banner with Purple Neon Stroke on Name -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20,24,30&height=200&section=header&text=Muhammad%20Magdy&fontSize=70&fontColor=fff&stroke=6E40C9&strokeWidth=2&animation=fadeIn&fontAlignY=45" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20,24,30&height=220&section=header&text=Muhammad%20Magdy&fontSize=68&fontColor=ffffff&stroke=6E40C9&strokeWidth=2&animation=fadeIn&fontAlignY=42" width="100%"/>
 
-<div align="center">
+# AI Full-Stack Developer
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=6E40C9&height=100&width=600&text=AI%20FULL-STACK%20DEVELOPER&fontSize=35&fontColor=fff&animation=twinkling&bgDot=false" alt="Constant Neon Pulse" />
-
-</div> >
-
-
-
-<!-- ═══════════════════  TYPING ANIMATIONS  ═══════════════════ -->
-
-<div align="center">
+### Building production-ready intelligent systems with modern AI infrastructure.
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2200&pause=700&color=6E40C9&center=true&vCenter=true&repeat=true&width=780&lines=%F0%9F%A7%A0+Building+intelligent+systems+that+actually+ship;%F0%9F%94%8D+RAG+Pipelines+%7C+Vector+Search+%7C+LLM+APIs;%E2%9A%A1+FastAPI+%2B+Next.js+%2B+React+%2B+PyTorch;%F0%9F%93%84+From+PDF+to+insight+in+milliseconds;%F0%9F%8C%8D+Open+to+Freelance+%26+Global+Collaboration)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1200&color=A78BFA&center=true&vCenter=true&width=750&lines=RAG+Pipelines+%E2%80%A2+LLM+Applications+%E2%80%A2+AI+Automation;FastAPI+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Docker;Building+AI+products+people+actually+use.)](https://git.io/typing-svg)
 
-<br/><br/>
+<br/>
 
-<!-- BADGES ROW -->
-<!-- <a href="https://MuhammadMagdyy.github.io/Portfolio/">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-6E40C9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<a href="https://MuhammadMagdyy.github.io/Portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-6E40C9?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="mailto:iimuhammadmagdy@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-&nbsp;
-<a href="https://www.linkedin.com/in/muhammad-magdy-652545238/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://drive.google.com/file/d/1qCFz0zFDIve5CYORDHpyAiMFK-VvlGyD/view?usp=sharing">
-  <img src="https://img.shields.io/badge/📄_Download_CV-6E40C9?style=for-the-badge&logo=googledrive&logoColor=white"/>
-</a> -->
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=MuhammadMagdyy&label=Profile+Views&color=A78BFA&style=for-the-badge"/>
 
-<br/><br/>
+<a href="https://www.linkedin.com/in/muhammad-magdy-652545238/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/MuhammadMagdyy/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
 </div>
 
-<!-- ═══════════════════  DIVIDER  ═══════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
+---
 
-<!-- ═══════════════════  ABOUT ME  ═══════════════════ -->
-
-## 🧠 About Me
+# 🧠 About Me
 
 ```python
 class MuhammadMagdy:
-    role       = ["Software Engineer", "AI Developer", "Full-Stack Developer"]
-    location   = "New Cairo, Egypt 🇪🇬"
-    education  = "BSc Media Engineering & Technology — GUC (2024)"
 
-    focus      = [
-        "RAG Pipelines & Vector Search",
-        "LLM Integration & AI Automation",
-        "Full-Stack Web Apps (MERN / Next.js)",
-        "ERP Systems (Odoo, SAP ABAP)",
-    ]
-    stack      = {
-        "backend":    ["Python", "FastAPI", "Node.js", "Java", "SAP ABAP"],
-        "frontend":   ["React.js", "Next.js", "TypeScript", "JavaScript"],
-        "ai_ml":      ["LangChain", "RAG", "LLM APIs", "PyTorch", "OpenCV"],
-        "databases":  ["Qdrant", "PostgreSQL", "MySQL", "MongoDB"],
-        "devops":     ["Docker", "AWS (EC2/S3)", "GitHub Actions", "Linux"],
-    }
-    currently  = "Building AI-driven automation tools & freelancing 🚀"
-    learning   = "Advanced Agentic AI & Multi-Modal LLMs"
-    portfolio  = "https://MuhammadMagdyy.github.io/Portfolio/"
-    cv         = "https://drive.google.com/file/d/1qCFz0zFDIve5CYORDHpyAiMFK-VvlGyD/view"
-    dm_open    = True
+    role = "AI Full-Stack Developer"
 
-    def mission(self):
-        return "Engineer AI systems that solve real problems at scale."
+    stack = [
+        "Python",
+        "FastAPI",
+        "Next.js",
+        "TypeScript",
+        "PostgreSQL",
+        "Docker",
+    ]
+
+    ai = [
+        "RAG Pipelines",
+        "LLM Integration",
+        "Vector Search",
+        "AI Automation",
+    ]
+
+    currently_building = "AI-powered systems and developer tools"
+
+    def mission(self):
+        return "Build intelligent products that solve real problems."
 ```
-
-> 💡 *GUC graduate. I don't just write code — I engineer intelligent systems. From production RAG pipelines to full-stack dashboards, I work at the intersection of AI research and real-world product delivery.*
-
-<!-- ═══════════════════  ANIMATED DIVIDER  ═══════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
-
-<!-- ═══════════════════  TECH STACK  ═══════════════════ -->
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<br/>
-
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp&theme=dark&perline=5"/>
-
-<br/><br/>
-
-**Frameworks & Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=fastapi,react,nextjs,nodejs,tailwind&theme=dark&perline=5"/>
-
-<br/><br/>
-
-**AI / ML & Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=pytorch,opencv,postgres,mongodb,redis&theme=dark&perline=5"/>
-
-<br/><br/>
-
-**DevOps & Cloud**
-<br/>
-<img src="https://skillicons.dev/icons?i=docker,aws,git,linux,vscode&theme=dark&perline=5"/>
-
-<br/>
-
-</div>
-
-<!-- ═══════════════════  ANIMATED DIVIDER  ═══════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
-
-<!-- ═══════════════════  PROJECTS  ═══════════════════ -->
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Production-grade+builds.+Engineered+to+solve+real+problems.)](https://git.io/typing-svg)
-
-</div>
-
-<br/>
-
-### 📄 Stanza Studio — *Intelligent PDF Knowledge Engine*
-
-> *Turn any PDF library into a conversational knowledge base.*
-
-Event-driven **RAG system** built for high-speed PDF ingestion and semantic querying. Containerized for cloud consistency, powered by Groq for near-instant LLM responses.
-
-| | |
-|:--|:--|
-| 🧠 **AI** | LangChain · Groq · RAG · Vector Embeddings |
-| ⚙️ **Backend** | Python · FastAPI · Inngest (event-driven) |
-| 📦 **Infra** | Docker · Qdrant |
-
-[![Repo](https://img.shields.io/badge/View_Repo-6E40C9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammadMagdyy/rag-stanza-engine)
 
 ---
 
-### 🖼️ Athar — *Gallery Platform*
+# ⚒️ Core Stack
 
-> *Modern, data-rich student directory built for educators.*
+### Backend & AI
 
-Full-stack **Next.js + TypeScript** web app for managing and visualizing student records. Clean component architecture, SSR, and responsive design throughout.
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,pytorch,postgres&theme=dark"/>
+</p>
 
-| | |
-|:--|:--|
-| 🎨 **Frontend** | Next.js · TypeScript · Tailwind CSS |
-| 📡 **Data** | REST API Integration · Server-Side Rendering |
+### Frontend
 
-[![Repo](https://img.shields.io/badge/View_Repo-6E40C9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammadMagdyy/athar-portfolio)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind&theme=dark"/>
+</p>
 
----
+### Infrastructure
 
-### 🎓 Amelio — *Online Learning System*
-
-> *A complete e-learning platform — from registration to payment.*
-
-MERN-stack e-learning system with **Stripe payments**, JWT authentication, and MVC architecture supporting 3 distinct user roles: Student, Instructor, Admin.
-
-| | |
-|:--|:--|
-| 🎨 **Stack** | MongoDB · Express · React · Node.js |
-| 🔐 **Auth & Pay** | JWT · Stripe |
-
-[![Repo](https://img.shields.io/badge/View_Repo-6E40C9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammadMagdyy/Advanced-Computer-Lab-2022-BlueHats)
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws,linux,git,githubactions&theme=dark"/>
+</p>
 
 ---
 
-### 🤟 ASL Recognizer — *Computer Vision for Accessibility*
+# 🚀 Featured Projects
 
-> *Breaking communication barriers with real-time gesture recognition.*
+## 📄 Stanza Studio
 
-CNN-based deep learning system that classifies American Sign Language gestures in real time. Researched, built, and defended as Bachelor's thesis at **Ulm University, Germany**.
+AI-powered PDF knowledge engine built with RAG pipelines, semantic search, and ultra-fast LLM responses.
 
-[![Repo](https://img.shields.io/badge/View_Repo-6E40C9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammadMagdyy/asl-recognizer)
+`FastAPI` `LangChain` `Qdrant` `Groq` `Docker`
 
-<!-- ═══════════════════  ANIMATED DIVIDER  ═══════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
+🔗 **Repository**  
+https://github.com/MuhammadMagdyy/rag-stanza-engine
 
-<!-- ═══════════════════  EXPERIENCE  ═══════════════════ -->
+---
 
-## 💼 Experience
+## 🖼️ Athar
 
-```
-🏢  Mansour Group (SAP ABAP Intern)         Sep 2023 – Oct 2023 · Cairo, Egypt
-     └─ Custom ABAP reports & SAP ERP data dictionary objects
+Modern Next.js platform for managing and visualizing student records with clean UI architecture and SSR.
 
-🔬  Ulm University (ML Research Intern)     Apr 2023 – May 2023 · Ulm, Germany
-     └─ CNN optimization with PyTorch · Automated preprocessing (−40% manual time)
-     └─ Bachelor's thesis: ASL gesture recognition with CNNs
-```
+`Next.js` `TypeScript` `TailwindCSS`
 
-<!-- ═══════════════════  ANIMATED DIVIDER  ═══════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
+🔗 **Repository**  
+https://github.com/MuhammadMagdyy/athar-portfolio
 
-<!-- ═══════════════════  CERTIFICATIONS  ═══════════════════ -->
+---
 
-## 📜 Certifications
+## 🎓 Amelio
+
+Full-stack e-learning platform with authentication, Stripe payments, and multi-role access control.
+
+`MongoDB` `Express` `React` `Node.js`
+
+🔗 **Repository**  
+https://github.com/MuhammadMagdyy/Advanced-Computer-Lab-2022-BlueHats
+
+---
+
+## 🤟 ASL Recognizer
+
+Real-time American Sign Language recognition system built using CNNs and computer vision.
+
+`PyTorch` `OpenCV` `Deep Learning`
+
+🔗 **Repository**  
+https://github.com/MuhammadMagdyy/asl-recognizer
+
+---
+
+# 💼 Experience
+
+### Mansour Group — SAP ABAP Intern
+
+Worked on ERP reports and SAP data dictionary objects within enterprise SAP systems.
+
+### Ulm University — ML Research Intern
+
+Researched CNN optimization techniques and developed ASL gesture recognition systems for accessibility applications.
+
+---
+
+# 📜 Certifications
+
+- AWS Cloud Essentials
+- IBM Generative AI
+- Meta React Basics
+- Odoo Technical Training
+
+---
+
+# 📊 GitHub Stats
 
 <div align="center">
 
-![AWS](https://img.shields.io/badge/AWS_Cloud_Essentials-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![IBM](https://img.shields.io/badge/IBM_GenAI-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
-![Meta](https://img.shields.io/badge/Meta_React_Basics-0866FF?style=for-the-badge&logo=meta&logoColor=white)
-![Odoo](https://img.shields.io/badge/Odoo_Technical-714B67?style=for-the-badge&logo=odoo&logoColor=white)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MuhammadMagdyy&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadMagdyy&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
-<!-- ═══════════════════  ANIMATED DIVIDER  ═══════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
+---
 
-<!-- ═══════════════════  WAKA  ═══════════════════ -->
-
-## ⏱️ Weekly Coding Activity
-
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-37-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.15%20million%20lines%20of%20code-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 169.0 kB Used in GitHub's Storage 
- > 
-> 🏆 114 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 19 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I Mostly Code in Java** 
-
-```text
-Java                     7 repos             █████████░░░░░░░░░░░░░░░░   35.00 % 
-JavaScript               6 repos             ████████░░░░░░░░░░░░░░░░░   30.00 % 
-ShaderLab                1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/MuhammadMagdyy/MuhammadMagdyy/main/assets/bar_graph.png)
-
-
- Last Updated on 12/05/2026 02:51:39 UTC
-<!--END_SECTION:waka-->
-
-<!-- ═══════════════════  CONNECT  ═══════════════════ -->
-
-## 🤝 Let's Connect
+# 🤝 Connect
 
 <div align="center">
 
-<br/>
+Currently open to AI engineering, backend, and full-stack opportunities.
+
+<br/><br/>
+
 <a href="https://MuhammadMagdyy.github.io/Portfolio/">
-  <img src="https://img.shields.io/badge/Live_Portfolio-6E40C9?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-6E40C9?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="mailto:iimuhammadmagdy@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Freelance_or_Collaboration-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-&nbsp;
+
 <a href="https://www.linkedin.com/in/muhammad-magdy-652545238/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect_Professionally-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;
-<a href="https://leetcode.com/u/MuhammadMagdyy/">
-  <img src="https://img.shields.io/badge/LeetCode-Solve_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-&nbsp;
-<a href="https://drive.google.com/file/d/1qCFz0zFDIve5CYORDHpyAiMFK-VvlGyD/view?usp=sharing">
-  <img src="https://img.shields.io/badge/Download_CV-6E40C9?style=for-the-badge&logo=googledrive&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-> 💼 **Open to:** Freelance AI/ML · Full-stack contracts · Technical collaborations
->
-> ⚡ **Response time:** Within 24 hours
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3500&pause=1200&color=6E40C9&center=true&vCenter=true&width=600&lines=%22The+best+AI+is+the+one+that+ships+—+and+helps+real+people.%22)](https://git.io/typing-svg)
-
-<br/>
 
 </div>
 
-<!-- ═══════════════════  FOOTER  ═══════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=140&section=footer&animation=twinkling" width="100%"/>
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=120&section=footer"/>
+
+</div>
