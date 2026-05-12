@@ -212,46 +212,8 @@ CNN-based deep learning system that classifies American Sign Language gestures i
 <!-- ═══════════════════  ANIMATED DIVIDER  ═══════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
-<!-- ═══════════════════  WAKA  ═══════════════════ -->
-
-## ⏱️ Weekly Coding Activity
-
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-37-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.15%20million%20lines%20of%20code-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 169.0 kB Used in GitHub's Storage 
- > 
-> 🏆 114 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 19 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I Mostly Code in Java** 
-
-```text
-Java                     7 repos             █████████░░░░░░░░░░░░░░░░   35.00 % 
-JavaScript               6 repos             ████████░░░░░░░░░░░░░░░░░   30.00 % 
-ShaderLab                1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-```
 
 
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/MuhammadMagdyy/MuhammadMagdyy/main/assets/bar_graph.png)
-
-
- Last Updated on 12/05/2026 02:51:39 UTC
-<!--END_SECTION:waka-->
 
 <!-- ═══════════════════  CONNECT  ═══════════════════ -->
 
