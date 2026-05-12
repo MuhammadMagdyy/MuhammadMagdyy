@@ -26,6 +26,10 @@
 <br/><br/>
 
 <!-- BADGES ROW -->
+<a href="https://MuhammadMagdyy.github.io/Portfolio/">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-6E40C9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
 <a href="mailto:iimuhammadmagdy@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -72,6 +76,7 @@ class MuhammadMagdy:
     }
     currently  = "Building AI-driven automation tools & freelancing 🚀"
     learning   = "Advanced Agentic AI & Multi-Modal LLMs"
+    portfolio  = "https://MuhammadMagdyy.github.io/Portfolio/"
     cv         = "https://drive.google.com/file/d/1qCFz0zFDIve5CYORDHpyAiMFK-VvlGyD/view"
     dm_open    = True
 
@@ -311,6 +316,9 @@ TypeScript               1 repo              █░░░░░░░░░░�
 <div align="center">
 
 <br/>
+<a href="https://MuhammadMagdyy.github.io/Portfolio/">
+  <img src="https://img.shields.io/badge/Live_Portfolio-Check_Projects-6E40C9?style=for-the-badge&logo=react&logoColor=white"/>
+</a>
 
 <a href="mailto:iimuhammadmagdy@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Freelance_or_Collaboration-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
