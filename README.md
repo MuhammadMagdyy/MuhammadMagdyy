@@ -56,15 +56,17 @@
 ## 🧠 About Me
 
 ```python
-class Profile:
-    def __init__(self):
-        self.role     = "Software Engineer"
-        self.focus    = ["Agentic AI", "Production RAG", "Full-Stack"]
-        self.location = "New Cairo, Egypt 🇪🇬"
-        self.status   = "Freelancing & Building Automation Tools"
 
-    def mission(self):
-        return "Converting complex LLM capabilities into reliable production tools."
+                class Profile:
+                        def __init__(self):
+                            self.role     = "Software Engineer"
+                            self.focus    = ["Agentic AI", "Production RAG", "Full-Stack"]
+                            self.location = "New Cairo, Egypt 🇪🇬"
+                            self.status   = "Freelancing & Building Automation Tools"
+
+                        def mission(self):
+                            return "Converting complex LLM capabilities into reliable production tools."
+    
 ```
 
 > 💡 *GUC graduate. I don't just write code — I engineer intelligent systems. From production RAG pipelines to full-stack dashboards, I work at the intersection of AI research and real-world product delivery.*
