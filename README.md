@@ -221,16 +221,11 @@ CNN-based deep learning system that classifies American Sign Language gestures i
 
 <div align="center">
 
+### 🌐 Portfolios
+[![](https://img.shields.io/badge/Main_Portfolio-6E40C9?style=for-the-badge&logo=react&logoColor=white)](https://MuhammadMagdyy.github.io/Portfolio/)
+&nbsp;
+[![](https://img.shields.io/badge/Animated_Portfolio-6E40C9?style=for-the-badge&logo=react&logoColor=white)](https://muhammadmagdyy.github.io/animated-portfolio/)
 <br/>
-## 🚀 Featured Work
-
-* **[Interactive Portfolio](https://MuhammadMagdyy.github.io/Portfolio/)**
-    * Built with React and Tailwind CSS.
-    * [![Live Demo](https://img.shields.io/badge/Live_Demo-6E40C9?style=flat-square&logo=react)](https://MuhammadMagdyy.github.io/Portfolio/)
-
-* **[Animated Portfolio](https://muhammadmagdyy.github.io/animated-portfolio/)**
-    * Focuses on advanced CSS and high-performance animations.
-    * [![Live Demo](https://img.shields.io/badge/Live_Demo-6E40C9?style=flat-square&logo=react)](https://muhammadmagdyy.github.io/animated-portfolio/)
 
 <a href="mailto:iimuhammadmagdy@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Freelance_or_Collaboration-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
