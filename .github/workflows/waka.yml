@@ -9,12 +9,16 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     name: Update README with WakaTime Stats
+    
+    # CRITICAL: Allows the action to push the updated README back to your repo
+    permissions:
+      contents: write
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4 # Upgraded to v4
 
       - name: Update WakaTime Stats in README
-        uses: anmol098/waka-readme-stats@master
+        uses: anmol098/waka-readme-stats@master # Consider changing to a pinned version like @v5 if available
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
