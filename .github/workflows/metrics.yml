@@ -9,8 +9,6 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     
-    # Expanded permissions to ensure the action can read repository metadata 
-    # and safely commit the generated SVG file back to your repository.
     permissions:
       contents: write
       actions: read
@@ -18,10 +16,8 @@ jobs:
 
     steps:
       - name: Generate Metrics SVG
-        uses: lowlighter/metrics@v3.34  # Fixed: Changed from @latest to a stable tag to avoid GitHub archive download errors
+        uses: lowlighter/metrics@v3.33  # Changed to v3.33 to completely bypass the glitched GitHub cache
         with:
-          # IMPORTANT: Ensure this matches the exact name of the secret you created 
-          # in your repository settings (Settings -> Secrets and variables -> Actions)
           token: ${{ secrets.METRICS_TOKEN }}
           
           # Core Configuration
