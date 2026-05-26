@@ -15,8 +15,13 @@ jobs:
       packages: read
 
     steps:
+      # We use actions/checkout just to give the runner context of your repository
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Generate Metrics SVG
-        uses: lowlighter/metrics@v3.33  # Changed to v3.33 to completely bypass the glitched GitHub cache
+        # Using the pre-built Docker image container bypasses GitHub's glitched tar.gz download servers
+        uses: docker://ghcr.io/lowlighter/metrics:master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           
