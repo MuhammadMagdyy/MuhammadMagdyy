@@ -1,22 +1,39 @@
 name: GitHub Metrics
+
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # Runs every day at midnight
+  workflow_dispatch:     # Allows you to trigger it manually from the Actions tab
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    
+    # Expanded permissions to ensure the action can read repository metadata 
+    # and safely commit the generated SVG file back to your repository.
     permissions:
-      contents: write  # Crucial to let the action commit the SVG file
+      contents: write
+      actions: read
+      packages: read
+
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Generate Metrics SVG
+        uses: lowlighter/metrics@latest
         with:
+          # IMPORTANT: Ensure this matches the exact name of the secret you created 
+          # in your repository settings (Settings -> Secrets and variables -> Actions)
           token: ${{ secrets.METRICS_TOKEN }}
-          user: MuhammadMagdyy   # Updated with your actual GitHub username
+          
+          # Core Configuration
+          user: MuhammadMagdyy   
           template: classic
+          filename: github-metrics.svg
+          output_action: commit
+          
+          # Base metrics displayed at the top
           base: header, activity, community, repositories
+          
+          # Active Plugins
           plugin_languages: yes
           plugin_habits: yes
           plugin_achievements: yes
-          output_action: commit
-          filename: github-metrics.svg
