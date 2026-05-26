@@ -18,7 +18,7 @@ jobs:
 
     steps:
       - name: Generate Metrics SVG
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34  # Fixed: Changed from @latest to a stable tag to avoid GitHub archive download errors
         with:
           # IMPORTANT: Ensure this matches the exact name of the secret you created 
           # in your repository settings (Settings -> Secrets and variables -> Actions)
