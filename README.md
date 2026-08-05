@@ -1,11 +1,11 @@
 <!-- ═══════════════════  HERO HEADER  ═══════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20,24,30&height=200&section=header&text=Muhammad%20Magdy&fontSize=70&fontColor=fff&stroke=6E40C9&strokeWidth=2&animation=fadeIn&fontAlignY=45" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&amp;color=gradient&amp;customColorList=6,11,20,24,30&amp;height=200&amp;section=header&amp;text=Muhammad%20Magdy&amp;fontSize=70&amp;fontColor=fff&amp;stroke=6E40C9&amp;strokeWidth=2&amp;animation=fadeIn&amp;fontAlignY=45" width="100%"/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=6E40C9&height=100&width=600&text=FULL-STACK%20DEVELOPER%20%26%20AI&fontSize=32&fontColor=fff&animation=twinkling&bgDot=false" alt="Constant Neon Pulse" />
+<img src="https://capsule-render.vercel.app/api?type=soft&amp;color=6E40C9&amp;height=100&amp;width=600&amp;text=FULL-STACK%20DEVELOPER%20%26%20AI&amp;fontSize=32&amp;fontColor=fff&amp;animation=twinkling&amp;bgDot=false" alt="Constant Neon Pulse" />
 
 </div>
 
