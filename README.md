@@ -13,9 +13,9 @@
 
 <br/>
 
-<!-- <a href="https://git.io/typing-svg">
+<a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=24&amp;duration=2200&amp;pause=700&amp;color=6E40C9&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=780&amp;lines=%F0%9F%92%BB+Full-Stack+Engineer+%7C+MERN+%2B+Java+%2B+Python;%F0%9F%A7%A0+Building+reliable+web+apps+%26+RAG+pipelines;%E2%9A%A1+Strong+foundation+in+OOP+%26+Data+Structures;%F0%9F%8C%8D+Open+to+Software+Engineering+Roles" alt="Typing SVG" />
-</a> -->
+</a> 
 
  <br/><br/>
 
