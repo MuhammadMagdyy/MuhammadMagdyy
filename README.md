@@ -1,261 +1,244 @@
-<!-- ═══════════════════  HERO HEADER  ═══════════════════ -->
-<!-- <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20,24,30&height=220&section=header&text=Muhammad%20Magdy&fontSize=70&fontColor=fff&stroke=6E40C9&strokeWidth=2&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer%20%E2%80%A2%20AI%20Developer%20%E2%80%A2%20Full-Stack%20Developer&descSize=20&descAlignY=65&descColor=A78BFA" width="100%"/> -->
-
-
+<!-- ═══════════════════  HERO HEADER  ═══════════════════ -->
 <div align="center">
 
-<!-- Main Banner with Purple Neon Stroke on Name -->
 <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20,24,30&height=200&section=header&text=Muhammad%20Magdy&fontSize=70&fontColor=fff&stroke=6E40C9&strokeWidth=2&animation=fadeIn&fontAlignY=45" width="100%"/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=6E40C9&height=100&width=600&text=AI%20FULL-STACK%20DEVELOPER&fontSize=35&fontColor=fff&animation=twinkling&bgDot=false" alt="Constant Neon Pulse" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=6E40C9&height=100&width=600&text=FULL-STACK%20DEVELOPER%20%26%20AI&fontSize=32&fontColor=fff&animation=twinkling&bgDot=false" alt="Constant Neon Pulse" />
 
-</div> >
+</div>
 
-
-
-<!-- ═══════════════════  TYPING ANIMATIONS  ═══════════════════ -->
-
-<div align="center">
+<!-- ═══════════════════  TYPING ANIMATIONS  ═══════════════════ -->
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2200&pause=700&color=6E40C9&center=true&vCenter=true&repeat=true&width=780&lines=%F0%9F%A7%A0+Building+intelligent+systems+that+actually+ship;%F0%9F%94%8D+RAG+Pipelines+%7C+Vector+Search+%7C+LLM+APIs;%E2%9A%A1+FastAPI+%2B+Next.js+%2B+React+%2B+PyTorch;%F0%9F%93%84+From+PDF+to+insight+in+milliseconds;%F0%9F%8C%8D+Open+to+Freelance+%26+Global+Collaboration)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2200&pause=700&color=6E40C9&center=true&vCenter=true&repeat=true&width=780&lines=%F0%9F%92%BB+Full-Stack+Engineer+%7C+MERN+%2B+Java+%2B+Python;%F0%9F%A7%A0+Building+reliable+web+apps+%26+RAG+pipelines;%E2%9A%A1+Strong+foundation+in+OOP+%26+Data+Structures;%F0%9F%8C%8D+Open+to+Software+Engineering+Roles)](https://git.io/typing-svg)
 
 <br/><br/>
 
-<!-- BADGES ROW -->
-<!-- <a href="https://MuhammadMagdyy.github.io/Portfolio/">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-6E40C9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="mailto:iimuhammadmagdy@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/muhammad-magdy-652545238/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://drive.google.com/file/d/1qCFz0zFDIve5CYORDHpyAiMFK-VvlGyD/view?usp=sharing">
-  <img src="https://img.shields.io/badge/📄_Download_CV-6E40C9?style=for-the-badge&logo=googledrive&logoColor=white"/>
-</a> -->
-&nbsp;
 <img src="https://komarev.com/ghpvc/?username=MuhammadMagdyy&label=Profile+Views&color=A78BFA&style=for-the-badge"/>
 
 <br/><br/>
 
 </div>
 
-<!-- ═══════════════════  DIVIDER  ═══════════════════ -->
+<!-- ═══════════════════  DIVIDER  ═══════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
-<!-- ═══════════════════  ABOUT ME  ═══════════════════ -->
+<!-- ═══════════════════  ABOUT ME  ═══════════════════ -->
 
 ## 🧠 About Me
 ```python
 
 class Profile:
-    def __init__(self):
-                    self.role= "Software Engineer"
-                    self.focus= ["Agentic AI", "Production RAG", "Full-Stack"]
-                    self.location= "New Cairo, Egypt 🇪🇬"
-                    self.status= "Freelancing & Building Automation Tools"
+    def __init__(self):
+        self.role = "Full-Stack Software Engineer"
+        self.education = "B.Sc. in Computer Science & Engineering (GUC)"
+        self.core_stack = ["Java", "Python", "JavaScript", "React.js", "Node.js", "SQL"]
+        self.location = "New Cairo, Egypt 🇪🇬"
+        self.status = "Building Web Applications & Intelligent Systems"
 
-    def mission(self):
-                    return "Converting complex LLM capabilities into reliable production tools."
-
+    def mission(self):
+        return "Translating core software principles and scalable stacks into robust products."
 
 ```
 
-> 💡 *GUC graduate. I don't just write code — I engineer intelligent systems. From production RAG pipelines to full-stack dashboards, I work at the intersection of AI research and real-world product delivery.*
+> 💡 *Computer Science graduate from the German University in Cairo (GUC). I bring strong software engineering fundamentals in OOP and Data Structures, paired with hands-on experience across full-stack production systems and AI research.*
 
-<!-- ═══════════════════  ANIMATED DIVIDER  ═══════════════════ -->
+<!-- ═══════════════════  ANIMATED DIVIDER  ═══════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
-<!-- ═══════════════════  TECH STACK  ═══════════════════ -->
+<!-- ═══════════════════  TECH STACK  ═══════════════════ -->
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
 <div align="center">
 
 <br/>
 
-**Languages**
+### 🎯 Core Skills
+*Primary focus — strong hands-on experience & interview ready*
+
 <br/>
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp&theme=dark&perline=5"/>
+
+**Languages & Fundamentals**
+<br/>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![OOP](https://img.shields.io/badge/OOP-6E40C9?style=for-the-badge)
+![Data Structures](https://img.shields.io/badge/Data_Structures-6E40C9?style=for-the-badge)
+
+<br/>
+
+**Full-Stack & Databases**
+<br/>
+![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![REST API](https://img.shields.io/badge/RESTful_APIs-0055E5?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 <br/><br/>
 
-**Frameworks & Frontend**
+---
+
+### 💡 Familiar With
+*Worked with in project environments, research, & internships*
+
 <br/>
-<img src="https://skillicons.dev/icons?i=fastapi,react,nextjs,nodejs,tailwind&theme=dark&perline=5"/>
+
+**Frameworks & Web**
+<br/>
+<img src="https://skillicons.dev/icons?i=ts,nextjs,fastapi,dotnet&theme=dark&perline=4"/>
 
 <br/><br/>
 
-**AI / ML & Databases**
+**DevOps, ERP & Tools**
 <br/>
-<img src="https://skillicons.dev/icons?i=pytorch,opencv,postgres,mongodb,redis&theme=dark&perline=5"/>
-
-<br/><br/>
-
-**DevOps & Cloud**
-<br/>
-<img src="https://skillicons.dev/icons?i=docker,aws,git,linux,vscode&theme=dark&perline=5"/>
+<img src="https://skillicons.dev/icons?i=docker,aws,git,linux,cpp&theme=dark&perline=5"/>
 
 <br/>
 
 </div>
 
-<!-- ═══════════════════  ANIMATED DIVIDER  ═══════════════════ -->
+<!-- ═══════════════════  ANIMATED DIVIDER  ═══════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
-<!-- ═══════════════════  PROJECTS  ═══════════════════ -->
+<!-- ═══════════════════  PROJECTS  ═══════════════════ -->
 
 ## 🚀 Featured Projects
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Production-grade+builds.+Engineered+to+solve+real+problems.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Engineered+with+clean+code+and+solid+architecture.)](https://git.io/typing-svg)
 
 </div>
 
 <br/>
 
-### 📄 Stanza Studio — *Intelligent PDF Knowledge Engine*
-
-> *Turn any PDF library into a conversational knowledge base.*
-
-Event-driven **RAG system** built for high-speed PDF ingestion and semantic querying. Containerized for cloud consistency, powered by Groq for near-instant LLM responses.
-
-| | |
-|:--|:--|
-| 🧠 **AI** | LangChain · Groq · RAG · Vector Embeddings |
-| ⚙️ **Backend** | Python · FastAPI · Inngest (event-driven) |
-| 📦 **Infra** | Docker · Qdrant |
-
-[![Repo](https://img.shields.io/badge/View_Repo-6E40C9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammadMagdyy/rag-stanza-engine)
-
----
-
-### 🖼️ Athar — *Gallery Platform*
-
-> *Modern, data-rich student directory built for educators.*
-
-Full-stack **Next.js + TypeScript** web app for managing and visualizing student records. Clean component architecture, SSR, and responsive design throughout.
-
-| | |
-|:--|:--|
-| 🎨 **Frontend** | Next.js · TypeScript · Tailwind CSS |
-| 📡 **Data** | REST API Integration · Server-Side Rendering |
-
-[![Repo](https://img.shields.io/badge/View_Repo-6E40C9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammadMagdyy/athar-portfolio)
-
----
-
 ### 🎓 Amelio — *Online Learning System*
 
-> *A complete e-learning platform — from registration to payment.*
+> *Full-stack MERN e-learning platform with payment integration.*
 
-MERN-stack e-learning system with **Stripe payments**, JWT authentication, and MVC architecture supporting 3 distinct user roles: Student, Instructor, Admin.
+Built with MongoDB, Express, React, and Node.js. Features Stripe payment processing, JWT authentication, and an MVC architecture supporting 3 user roles: Student, Instructor, Admin.
 
 | | |
 |:--|:--|
-| 🎨 **Stack** | MongoDB · Express · React · Node.js |
-| 🔐 **Auth & Pay** | JWT · Stripe |
+| 🎨 **Core Stack** | React.js · Node.js · Express · MongoDB |
+| 🔐 **Auth & Pay** | JWT · Stripe API |
 
 [![Repo](https://img.shields.io/badge/View_Repo-6E40C9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammadMagdyy/Advanced-Computer-Lab-2022-BlueHats)
 
 ---
 
-### 🤟 ASL Recognizer — *Computer Vision for Accessibility*
+### ⚔️ Imperium Conqueror — *Java Strategy Game*
 
-> *Breaking communication barriers with real-time gesture recognition.*
+> *Interactive strategy game emphasizing core computer science principles.*
 
-CNN-based deep learning system that classifies American Sign Language gestures in real time. Researched, built, and defended as Bachelor's thesis at **Ulm University, Germany**.
+Developed directly in Java applying strict Object-Oriented Programming (OOP) principles, custom data structures, and modular software architecture.
 
-[![Repo](https://img.shields.io/badge/View_Repo-6E40C9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammadMagdyy/asl-recognizer)
+| | |
+|:--|:--|
+| 🧠 **Core Concepts** | Java · OOP · Custom Data Structures · Clean Design |
 
-<!-- ═══════════════════  ANIMATED DIVIDER  ═══════════════════ -->
+[![Repo](https://img.shields.io/badge/View_Repo-6E40C9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammadMagdyy)
+
+---
+
+### 📄 Stanza Studio — *AI-Powered RAG System*
+
+> *Intelligent PDF analysis and retrieval engine.*
+
+Event-driven RAG system engineered for high-speed document processing and semantic querying. Containerized using Docker for consistent deployments.
+
+| | |
+|:--|:--|
+| ⚙️ **Backend** | Python · FastAPI · Inngest |
+| 📦 **Infra & AI** | Docker · Groq LLM API |
+
+[![Repo](https://img.shields.io/badge/View_Repo-6E40C9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammadMagdyy/rag-stanza-engine)
+
+---
+
+### 🖼️ Athar — *Student Management Platform*
+
+> *Modern student directory and data management web application.*
+
+Engineered a clean, responsive student management interface built with Next.js and TypeScript.
+
+| | |
+|:--|:--|
+| 🎨 **Frontend** | Next.js · TypeScript · Tailwind CSS |
+
+[![Repo](https://img.shields.io/badge/View_Repo-6E40C9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammadMagdyy/athar-portfolio)
+
+<!-- ═══════════════════  ANIMATED DIVIDER  ═══════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
-<!-- ═══════════════════  EXPERIENCE  ═══════════════════ -->
+<!-- ═══════════════════  EXPERIENCE  ═══════════════════ -->
 
-## 💼 Experience
+## 💼 Experience & Internships
 
 ```
-🏢  Mansour Group (SAP ABAP Intern)         Sep 2023 – Oct 2023 · Cairo, Egypt
-     └─ Custom ABAP reports & SAP ERP data dictionary objects
+🏢  Mansour Group (ABAP Developer Intern)              Sep 2023 – Oct 2023 · Cairo, Egypt
+     └─ Custom ABAP reports & SAP ERP data dictionary objects
 
-🔬  Ulm University (ML Research Intern)     Apr 2023 – May 2023 · Ulm, Germany
-     └─ CNN optimization with PyTorch · Automated preprocessing (−40% manual time)
-     └─ Bachelor's thesis: ASL gesture recognition with CNNs
+🔬  Ulm University (ML Research Intern)              Apr 2023 – May 2023 · Ulm, Germany
+     └─ CNN architecture optimization in PyTorch & evaluation metrics
+     └─ Automated data preprocessing pipeline with Python (−40% manual time)
+     └─ Bachelor's thesis: ASL gesture recognition with computer vision & ML
 ```
 
-<!-- ═══════════════════  ANIMATED DIVIDER  ═══════════════════ -->
+<!-- ═══════════════════  ANIMATED DIVIDER  ═══════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
-<!-- ═══════════════════  CERTIFICATIONS  ═══════════════════ -->
+<!-- ═══════════════════  CERTIFICATIONS  ═══════════════════ -->
 
 ## 📜 Certifications
 
 <div align="center">
 
 ![AWS](https://img.shields.io/badge/AWS_Cloud_Essentials-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![IBM](https://img.shields.io/badge/IBM_GenAI-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 ![Meta](https://img.shields.io/badge/Meta_React_Basics-0866FF?style=for-the-badge&logo=meta&logoColor=white)
-![Odoo](https://img.shields.io/badge/Odoo_Technical-714B67?style=for-the-badge&logo=odoo&logoColor=white)
+![IBM](https://img.shields.io/badge/IBM_GenAI-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![Google](https://img.shields.io/badge/Google_Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 </div>
 
-<!-- ═══════════════════  ANIMATED DIVIDER  ═══════════════════ -->
+<!-- ═══════════════════  ANIMATED DIVIDER  ═══════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
-
-
-
-<!-- ═══════════════════  CONNECT  ═══════════════════ -->
+<!-- ═══════════════════  CONNECT  ═══════════════════ -->
 
 ## 🤝 Let's Connect
 
 <div align="center">
 
-### 🌐 Portfolios
-[![](https://img.shields.io/badge/Main_Portfolio-6E40C9?style=for-the-badge&logo=react&logoColor=white)](https://MuhammadMagdyy.github.io/Portfolio/)
+[![](https://img.shields.io/badge/Portfolio_Website-6E40C9?style=for-the-badge&logo=react&logoColor=white)](https://muhammadmagdyy.github.io/portfolio)
 &nbsp;
-[![](https://img.shields.io/badge/Animated_Portfolio-6E40C9?style=for-the-badge&logo=react&logoColor=white)](https://muhammadmagdyy.github.io/animated-portfolio/)
-<br/>
-
 <a href="mailto:iimuhammadmagdy@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Freelance_or_Collaboration-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/muhammad-magdy-652545238/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect_Professionally-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://linkedin.com/in/muhammad-magdy">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://leetcode.com/u/MuhammadMagdyy/">
-  <img src="https://img.shields.io/badge/LeetCode-Solve_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-&nbsp;
-<a href="https://drive.google.com/file/d/1qCFz0zFDIve5CYORDHpyAiMFK-VvlGyD/view?usp=sharing">
-  <img src="https://img.shields.io/badge/Download_CV-6E40C9?style=for-the-badge&logo=googledrive&logoColor=white"/>
+<a href="https://github.com/MuhammadMagdyy">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-> 💼 **Open to:** Freelance AI/ML · Full-stack contracts · Technical collaborations
+> 💼 **Open to:** Full-Stack Software Engineering roles · Backend / Web Development
 >
 > ⚡ **Response time:** Within 24 hours
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3500&pause=1200&color=6E40C9&center=true&vCenter=true&width=600&lines=%22The+best+AI+is+the+one+that+ships+—+and+helps+real+people.%22)](https://git.io/typing-svg)
-
-<br/>
-
 </div>
 
-<!-- ═══════════════════  FOOTER  ═══════════════════ -->
+<!-- ═══════════════════  FOOTER  ═══════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=140&section=footer&animation=twinkling" width="100%"/>
