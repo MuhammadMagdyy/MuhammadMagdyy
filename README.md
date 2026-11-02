@@ -177,8 +177,17 @@ Engineered a clean, responsive student management interface built with Next.js a
 
 [![Repo](https://img.shields.io/badge/View_Repo-6E40C9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammadMagdyy/athar-portfolio)
 
-<!-- ═══════════════════  ANIMATED DIVIDER  ═══════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/MuhammadMagdyy?tab=repositories">
+  <img src="https://img.shields.io/badge/📁_View_All_Projects_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories"/>
+</a>
+
+</div>
+
+<br/>
 
 <!-- ═══════════════════  EXPERIENCE  ═══════════════════ -->
 
